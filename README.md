@@ -1,11 +1,11 @@
-<h1 align="center">Projeto Ecommerce</h1>
+<h1 align="center">Projeto Ecommerce - Back</h1>
 
 <p align="center">Projeto de um ecommerce desenvolvido durante a disciplina de Desenvolvimento back-end I do curso Biopark Connect</p>
 <br>
 
 ## 💻 Tecnologias 
-- NodeJS
 - TypeScript
+- NodeJS
 
 <br>
 
